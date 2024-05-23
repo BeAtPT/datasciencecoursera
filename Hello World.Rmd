@@ -1,0 +1,9 @@
+---
+title: "Hello World"
+author: "BeAtPT"
+date: "`r Sys.Date()`"
+output: html_document- 
+-👋 Hi, I’m @BeAtPT
+- 👀 I’m interested in learning about Data science
+
+## R Markdown
